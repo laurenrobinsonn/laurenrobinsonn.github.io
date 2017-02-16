@@ -425,7 +425,7 @@
     "index.html": {
       "settings": {
         "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
+        "meta_descr": "index"
       },
       "components": [
         {
