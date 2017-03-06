@@ -472,9 +472,11 @@ h6,
 #ext_menu-5 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-2 H3 {
-  color: #ffffff;
-  font-size: 48px;
+#header4-1r .mbr-section-lead {
+  text-align: left;
+}
+#header4-1r .mbr-section-title {
+  text-align: left;
 }
 #features4-4 .card-subtitle {
   color: #bcbcbc;
@@ -482,10 +484,6 @@ h6,
 #features4-4 .iconbox {
   background-color: #5fdbff;
   border-color: #5fdbff;
-}
-#msg-box8-x .mbr-section-title,
-#msg-box8-x p {
-  color: #fff;
 }
 #contacts3-1i STRONG {
   color: #ffffff;
