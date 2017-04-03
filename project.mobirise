@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lauren Robinson Period 5",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -171,7 +171,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
-            "bgColor": "#a070ed"
+            "bgColor": "#ab39ff"
           },
           "text": "<blockquote>The science of today, is the technology of tomrrow &nbsp;-Edward Teller</blockquote>"
         },
@@ -183,6 +183,12 @@
             ".iconbox": {
               "background-color": "#5fdbff",
               "border-color": "#5fdbff"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -197,7 +203,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a070ed",
+            "bgColor": "#ab39ff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -385,7 +391,7 @@
           "text4": "",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: lrobinson@miamiartsstudio.com<br>Phone: 786-393-7732<br><br><br><br><strong>Address</strong><br>15015 sw 24th Steet, Miami, Fl<br>33185<br>",
+          "text6": "<strong>Contacts</strong><br>Email: lrobinson@miamiartsstudio.com<br>Phone: 786-393-7732<br><br><br><br><strong>Add</strong><br>15015 sw 24th Steet, Miami, Fl<br>33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "lrobinson@miamiartsstudio.com",
@@ -850,7 +856,7 @@
           "text4": "",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: lrobinson@miamiartsstudio.com<br>Phone: 786-393-7732<br><br><br><br><strong>Address</strong><br>15015 sw 24th Steet, Miami, Fl<br>33185<br>",
+          "text6": "<strong>Contacts</strong><br>Email: lrobinson@miamiartsstudio.com<br>Phone: 786-393-7732<br><br><br><br><strong>Add</strong><br>15015 sw 24th Steet, Miami, Fl<br>33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "lrobinson@miamiartsstudio.com",
@@ -1468,7 +1474,7 @@
           "text4": "",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: lrobinson@miamiartsstudio.com<br>Phone: 786-393-7732<br><br><br><br><strong>Address</strong><br>15015 sw 24th Steet, Miami, Fl<br>33185<br>",
+          "text6": "<strong>Contacts</strong><br>Email: lrobinson@miamiartsstudio.com<br>Phone: 786-393-7732<br><br><br><br><strong>Add</strong><br>15015 sw 24th Steet, Miami, Fl<br>33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "lrobinson@miamiartsstudio.com",
@@ -1761,7 +1767,7 @@
           "text4": "",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: lrobinson@miamiartsstudio.com<br>Phone: 786-393-7732<br><br><br><br><strong>Address</strong><br>15015 sw 24th Steet, Miami, Fl<br>33185<br>",
+          "text6": "<strong>Contacts</strong><br>Email: lrobinson@miamiartsstudio.com<br>Phone: 786-393-7732<br><br><br><br><strong>Add</strong><br>15015 sw 24th Steet, Miami, Fl<br>33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "lrobinson@miamiartsstudio.com",
@@ -2054,7 +2060,7 @@
           "text4": "",
           "title1": "",
           "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: lrobinson@miamiartsstudio.com<br>Phone: 786-393-7732<br><br><br><br><strong>Address</strong><br>15015 sw 24th Steet, Miami, Fl<br>33185<br>",
+          "text6": "<strong>Contacts</strong><br>Email: lrobinson@miamiartsstudio.com<br>Phone: 786-393-7732<br><br><br><br><strong>Add</strong><br>15015 sw 24th Steet, Miami, Fl<br>33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "lrobinson@miamiartsstudio.com",
